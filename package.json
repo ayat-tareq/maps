@@ -12,7 +12,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
-    "reactm-apbox-gl-language": "^1.0.1"
+    "reactm-apbox-gl-language": "^1.0.1",
+    "ta-json": "^2.5.0"
   },
   "scripts": {
     "start": "react-scripts start",
