@@ -1,0 +1,33 @@
+:root{
+    --mainGreen:#65BC97;
+    --lightBlack:#343A40;
+    --mainWhite:#f3f3f3;
+    --mainDark:#232528;
+    --mainYellow:#ffa400;
+  }
+
+
+.sizes{
+    height:3rem;
+    width: 3rem;
+    margin-right: 0 !important;
+}
+.nav-item{
+    font-size:1.3rem !important;
+}
+nav{
+    width:100vw !important;
+    
+}
+@media only screen and (max-width: 600px) {
+   button{
+    font-size:1rem !important;
+   }
+   .nav-item{
+    font-size:1rem !important;
+}
+nav{
+   padding-left: 0!important;
+   padding-right: 0 !important;    
+}
+  }
